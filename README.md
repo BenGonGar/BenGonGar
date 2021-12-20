@@ -1,4 +1,4 @@
-### Hi there 👋 This is my Code Repo,
+### Hi there 👋 Below you will find my Code Repo,
 
 If you would like to reach me elsewere try:
 
