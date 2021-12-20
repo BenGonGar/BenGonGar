@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is my Code Repo,
+
+If you would like to reach me elsewere try:
 
 [![Foo](https://help.tableau.com/current/pro/desktop/en-us/Resources/tableau-logo.png)](https://public.tableau.com/app/profile/benjamin.gonzalez1561#!/)
 
